@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.header{
+    margin:0;
+    width:100%;
+    padding:20px;
+    font-size: 20px;
+    background-color: rgb(235, 233, 231);
+    font-family: 'Trebuchet MS';
+
+}
+
+.main{
+    margin:0;
+    padding:0.0001rem;
+    background-color: aliceblue;
+}
